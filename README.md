@@ -20,7 +20,7 @@ Hi, I work on some Projects for myself, but sometimes also for my friends!
 
 | [Gandalf2532](https://github.com/Gandalf2532)                                                                | [itsmoritz266](https://github.com/itsmoritz266)                                                           | [thetechtim](https://github.com/lumentae)                                                                   |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-<p align="center"><img src="https://avatars.githubusercontent.com/u/179391414" width="64" height="64" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/199896953" width="64" height="64"><p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/66220444" width="64" height="64" /></p> |
+|<p align="center"><img src="https://avatars.githubusercontent.com/u/179391414" width="64" height="64" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/199896953" width="64" height="64"><p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/66220444" width="64" height="64" /></p> |
 
 <!--
 **thetechtim/thetechtim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
