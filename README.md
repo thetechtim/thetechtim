@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Hi, I work on some Projects for myself, but sometimes also for my friends!
-
 I mostly work on Minecraft Things like Datapacks and stuff.
 
 #### 👯 Check out some of my friends!
