@@ -2,19 +2,7 @@
 
 Hi, I work on some Projects for myself, but sometimes also for my friends!
 
-#### 👷 Check out what I'm currently working on
-
-{{range recentContributions 5}}
-
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-  {{- end}}
-
-#### 🔨 My recent Pull Requests
-
-{{range recentPullRequests 5}}
-
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-  {{- end}}
+I mostly work on Minecraft Things like Datapacks and stuff.
 
 #### 👯 Check out some of my friends!
 
