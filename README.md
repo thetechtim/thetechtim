@@ -5,7 +5,7 @@ I mostly work on Minecraft Things like Datapacks and stuff.
 
 #### 👯 Check out some of my friends!
 
-| [Gandalf2532](https://github.com/Gandalf2532)                                                                | [itsmoritz266](https://github.com/itsmoritz266)                                                           | [thetechtim](https://github.com/lumentae)                                                                   |
+| [Gandalf2532](https://github.com/Gandalf2532)                                                                | [itsmoritz266](https://github.com/itsmoritz266)                                                           | [lumentae](https://github.com/lumentae)                                                                   |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 |<p align="center"><img src="https://avatars.githubusercontent.com/u/179391414" width="64" height="64" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/199896953" width="64" height="64"><p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/66220444" width="64" height="64" /></p> |
 
