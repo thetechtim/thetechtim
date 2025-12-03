@@ -9,7 +9,7 @@ I mostly work on Minecraft Things like Datapacks and stuff.
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 |<p align="center"><img src="https://avatars.githubusercontent.com/u/179391414" width="64" height="64" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/199896953" width="64" height="64"><p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/66220444" width="64" height="64" /></p> |
 
-<p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetechtim&theme=github_dark&layout=compact&text_color=cd5f20&title_color=cd5f20&hide_border=true&card_width=445&border_radius=10&lang_count=25" alt="Gandalf2532" /></p>
+<p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetechtim&theme=github_dark&layout=compact&text_color=cd5f20&title_color=cd5f20&hide_border=true&card_width=445&border_radius=10&lang_count=25" alt="thetechtim most used languages" /></p>
 
 
 <!--
